@@ -1,0 +1,1 @@
+COPY roads_clipped TO 'outputs/v2/data/north-taiwan-roads-clipped.parquet' (FORMAT PARQUET);
